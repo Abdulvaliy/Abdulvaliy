@@ -1,0 +1,115 @@
+html body {
+    text-align: center;
+}
+
+.navbar {
+    margin: auto 30px;
+}
+
+.nav-projects {
+    position: relative;
+    left: 280px;
+}
+
+.nav-items {
+    font-size: 11px;
+    color: rgb(63, 60, 66);
+}
+
+.nav-items:hover {
+    color: #7510F7;
+    text-decoration: none;
+
+}
+
+.navbar a.special {
+    color: #7510F7;
+    border: #7510F7 1px solid;
+    border-radius: 30px;
+    padding: 3px 8px;
+}
+
+.navbar a.special:hover {
+    background-color: #7510F7;
+    color: white;
+    text-decoration: none;
+}
+.main h1 {
+    margin: 10px 7%;
+    font-size: 20px;
+    text-align: center;
+}
+
+.main h2 {
+    margin: 15px 20%;
+    font-size: 14px;
+    text-align: center;
+}
+
+.abdulvaliy-pic {
+    width: 120px;
+    height: 120px;
+    background-color: #7510F7;
+    border-radius: 50%;
+    align-items: center;
+    margin: 15px auto;
+}
+
+.abdulvaliy {
+    display: flex; 
+}
+
+.IT {
+    margin: 20px auto 0;
+    align-items: center;
+    width: 55%;
+}
+
+html body .bg{
+    background-color: #7510F7;
+    border-radius: 0;
+    color: white;
+    padding: 80px 150px 150px;
+    text-align: center;
+}
+
+body .bg h2 {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+body .bg p {
+    font-size: 10px;
+}
+
+.bg-2 {
+    background-color: white;
+    position: relative;
+    bottom: 140px;
+    border: rgb(221, 221, 221) 0.5px solid;
+    border-radius: 10px;
+    box-shadow: rgb(207, 207, 207) 0 -2px 4px inset;
+
+}
+
+.my-skills{
+    border-right:rgb(221, 221, 221) 0.5px solid;
+    padding: 30px;
+    text-align: center;
+}
+.col-4:last-child {
+    border-right: none;
+}
+
+.col-4 p {
+    font-size: 10px;
+    line-height: 2;
+}
+
+
+footer {
+    background-color: #7510F7;
+    color: white;
+    font-size: 8px;
+    padding: 10 px;
+}
